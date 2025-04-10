@@ -1,8 +1,11 @@
 {
-  "projectName": "משרד-עורכי-דין-אלפא-4701",
-  "businessName": "משרד עורכי דין אלפא",
-  "created": "2025-04-10T22:38:21.132Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-10T22:38:42.812Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-mshrd-avrky-dyn-alpa-1744324701074"
 }
